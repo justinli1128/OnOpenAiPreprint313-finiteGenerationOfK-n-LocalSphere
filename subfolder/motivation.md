@@ -2,7 +2,7 @@
 layout: default1
 title: Motivations and Related Works
 ---
-
+v(2.1)
 (Some of these definitions are in [my note](https://justinli1128.github.io/jiahaoliAcademicWebsite/Algebraic_Geometry_in_Chromatic_Homotopy_Theory.pdf), or many other texts availables elsewhere)
 
 Let $X$ be a spectrum (in homotopy theory), such as the sphere spectrum $\S=\Sigma^\infty S^0$. We often want to know the stable homotopy groups $\pi_n(X):= \[\Sigma^n\S, X]$.
