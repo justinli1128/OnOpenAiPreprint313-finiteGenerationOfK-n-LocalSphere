@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>{{ page.title }} | {{ site.title }}</title>
+    <title>{{ page.title }}</title>
 
     <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 
@@ -14,8 +14,27 @@
       window.MathJax = {
         tex: {
           inlineMath: [['$', '$'], ['\\(', '\\)']],
-          displayMath: [['$$', '$$'], ['\\[', '\\]']]
+          displayMath: [['$$', '$$'], ['\\[', '\\]']],
+            macros:{
+        F: " \\mathcal{F}",
+        G: " \\mathcal{G}",
+        O: " \\mathcal{O}",
+        colim: " \\mathrm{colim}",
+        Hom: "\\mathrm{H}om",
+           HomSh: "\\mathcal{H}om",
+        Sch: "\\mathrm{S}ch",
+        Ring: "\\mathrm{R}ing",
+        C: "\\mathbb{C}",
+        A: "\\mathbb{A}",
+        Proj: "\\mathbb{P}",
+        spec: "\\mathrm{spec}",
+        Z: "\\mathbb{Z}",
+        Fp: "\\mathbb{F}_p",
+        Fpn: "\\mathbb{F}_{p^n}",
+        Hcts: "H_{\\mathrm{cts}}"
         }
+        }
+          
       };
     </script>
 
