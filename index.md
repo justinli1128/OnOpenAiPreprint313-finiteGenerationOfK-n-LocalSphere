@@ -2,6 +2,7 @@
 layout: default
 title: On OpenAI's Proof of $\mathbb{Z}_p$-Finite Generation of $K(n)$-local Sphere
 ---
+(v.1)
 # On OpenAI's Proof of $\mathbb{Z}_p$-Finite Generation of $K(n)$-local Sphere
 Author:[Jiahao Li](https://justinli1128.github.io/jiahaoliAcademicWebsite/) (University of British Columbia, Okanagan)
 
