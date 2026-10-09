@@ -69,7 +69,7 @@ This is not necessarily a homology. However, under certain circumstances, this d
 
 [Theorem 1.6](bibliography.md)\[Lan76\]
 
-$R\_\*(-)$ is a homology if there is a prime $p$, and associated $v\_n$ in $MU\_\*$ such that $(p, v\_1,v\_2,...)$ is a regular sequence in $R\_\_*$, i.e. $v\_n$ is not a zero divisor of $R\_\*/(p,v\_1,...,v\_{n-1})R\_\*$.
+$R\_\*(-)$ is a homology if there is a prime $p$, and associated $v\_n$ in $MU\_\*$ such that $(p, v\_1,v\_2,...)$ is a regular sequence in $R\_{\*}$, i.e. $v\_n$ is not a zero divisor of $R\_\*/(p,v\_1,...,v\_{n-1})R\_\*$.
 
 We refer to this condition as **Landweber flat**
 
@@ -117,11 +117,14 @@ L\_{n-1} X & \longleftarrow & L_{n-1}LKn X
 
 Therefore, it is important to understand $LKn \S$, as it is the first step to recover $\pi\_* \S$.
 
-Let $\LT\_n$ be the Lubin-Tate space of deformation of a height $n$ formal group law over $\Fpn$. This space lives over $Mfg^{n}$. The space $LT$ is discrete, and it is represented by a profinite ring $W(\Fpn)\[\[v\_1,...,v\_{n-1}\]\]$, and there is a spectrum $E\_n$ such that \\[(E\_n)\_*=W(\Fpn)\[\[v\_1,...,v\_{n-1}\]\]\[u^\pm]\\]. Moreover, let $\Gn$ denote the automorphism group of $\LT\_n$ over $Mfg^{n}$, then we have $LT\_n//\Gn\simeq Mfg^{n}$. The group $\Gn$ is profinite, determined by a chain of closed subgroup $U\_k\subset U\_{k-1}\subset \Gn$, and acts continuously on $(E\_n)\_*$.
+Let $\LT\_n$ be the Lubin-Tate space of deformation of a height $n$ formal group law over $\Fpn$. This space lives over $\Mfg^{n}$. The space $\LT\_n$ is discrete, and it is represented by a profinite ring $W(\Fpn)\[\[v\_1,...,v\_{n-1}\]\]$, and there is a spectrum $E\_n$ such that 
+\\[
+(E\_n)\_{\*}=W(\Fpn)\[\[v\_1,...,v\_{n-1}\]\]\[u^\pm]
+\\]. Moreover, let $\Gn$ denote the automorphism group of $\LT\_n$ over $\Mfg^{n}$, then we have $\LT\_n//\Gn\simeq \Mfg^{n}$. The group $\Gn$ is profinite, determined by a chain of closed subgroup $U\_k\subset U\_{k-1}\subset \Gn$, and acts continuously on $(E\_n)\_*$.
 
 [Theorem 1.10](bibliography.md)\[DH04\]
 
-We have $\LKnX\simeq (E\_n\wedge X)^{h\Gn}:=\holim\_n (E\_n\wedge X)^{h U\_k}$ and there is a spectral sequence
+We have $\LKn X\simeq (E\_n\wedge X)^{h\Gn}:=\holim\_n (E\_n\wedge X)^{h U\_k}$ and there is a spectral sequence
 \\[
 E^{s,t}\_2=\Hcts^{s}(\Gn, (E\_n)\_t X)\implies \pi\_{t-s}\LKn X
 \\]
