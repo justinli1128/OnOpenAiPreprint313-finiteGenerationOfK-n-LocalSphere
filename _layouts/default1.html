@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+     <title>{{ page.title }} | {{ site.title }}</title>
+
+    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+    <!-- MathJax configuration -->
+    <script>
+      window.MathJax = {
+        tex: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']],
+          displayMath: [['$$', '$$'], ['\\[', '\\]']],
+            macros:{
+        F: " \\mathcal{F}",
+        G: " \\mathcal{G}",
+        O: " \\mathcal{O}",
+        colim: " \\mathrm{colim}",
+        Hom: "\\mathrm{H}om",
+           HomSh: "\\mathcal{H}om",
+        Sch: "\\mathrm{S}ch",
+        Ring: "\\mathrm{R}ing",
+        C: "\\mathbb{C}",
+        A: "\\mathbb{A}",
+        Proj: "\\mathbb{P}",
+        spec: "\\mathrm{spec}",
+        Z: "\\mathbb{Z}",
+        Z_p: "\\mathbb{Z}_p",
+        Fp: "\\mathbb{F}_p",
+        Fpn: "\\mathbb{F}_{p^n}",
+        Hcts: "H_{\\mathrm{cts}}",
+        Gn: "\\mathbb{G}_n",
+        Mfg: "\\mathcal{M}_{\\mathrm{fg}}",
+        LT: "\\mathrm{LT}",
+        LKn: "L_{K(n)}",
+        S: "\\mathbb{S}",
+        holim:"\\mathrm{holim}",
+         hocolim:"\\mathrm{hocolim}"
+        }
+        }
+          
+      };
+    </script>
+
+    <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+</head>
+
+<body>
+    <header>
+        <h1>{{ site.title }}</h1>
+        <nav>
+            <a href="{{ '/' | relative_url }}">Home</a>
+        </nav>
+    </header>
+    <main>
+        {{ content }}
+    </main>
+
+    <footer>
+        <p>© {{ site.time | date: '%Y' }}</p>
+    </footer>
+</body>
+</html>
