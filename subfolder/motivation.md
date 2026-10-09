@@ -124,7 +124,7 @@ Let $\LT\_n$ be the Lubin-Tate space of deformation of a height $n$ formal group
 
 [Theorem 1.10](bibliography.md/)\[DH04\]
 
-We have $\LKn X\simeq (E\_n\wedge X)^{h\Gn}:=\holim\_n (E\_n\wedge X)^{h U\_k}$ and there is a spectral sequence
+For a spectrum $X$, there is a spectral sequence
 \\[
 E^{s,t}\_2=\Hcts^{s}(\Gn, (E\_n)\_t X)\implies \pi\_{t-s}\LKn X
 \\]
