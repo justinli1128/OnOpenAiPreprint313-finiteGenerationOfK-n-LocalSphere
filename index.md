@@ -15,3 +15,5 @@ This website is aimed to understand the proof of OpenAI of the $\mathbb{Z}_p$-fi
 ## Contents
 
 [Motivation and Related Works](motivation.md)
+
+[Proof Sketch](proofsketch.md)
