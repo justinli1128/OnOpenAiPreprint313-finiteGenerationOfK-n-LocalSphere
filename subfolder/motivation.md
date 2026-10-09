@@ -22,13 +22,13 @@ A **$E$-local spectrum** $X$, is a spectrum such that the following equivalent c
 
 Some cohomology of interests are
 
-[Definition 1.2](bibliography.md)\[Lur10\]
+[Definition 1.2](bibliography.md/Lur10)\[Lur10\]
 
 A **complex oriented cohomology** is a spectrum $E$, such that $E^2(\CP^\infty)\to E^2(\CP^1)\cong E^0$ is surjective. A **complex orientation** is a lift $t\_E\in E^2(\CP^∞)$ of $1\_E$.
 
 Using Atiyah-Hirzebruch Spectral Sequence to compute $E^*(\CP^n)$, we have $E^*(\CP^n)\cong E^*\[\[t\_E\]\]/(t\_E^{n+1})$, and $\lim^1 E^*(\CP^n)$ vanishes so 
 
-[Theorem 1.3](bibliography.md)\[Lur10\]
+[Theorem 1.3](bibliography.md/)\[Lur10\]
 
 For a complex oriented cohomology $E$, and a complex orientation $t_E\in E^2(\CP^∞)$, then 
 \\[
@@ -46,7 +46,7 @@ For a prime $p$, we let $v\_n\in R$ denote the coefficient in front of $t^{p^n}$
 
 Let $MU$ denote the Thom spectrum of universal complex vector bundle. 
 
-[Theorem 1.4](bibliography.md)\[Lur10\]
+[Theorem 1.4](bibliography.md/)\[Lur10\]
 
 There is a complex orientation $t\_{MU}$ on $MU$, and let $E$ be a commutative ring spectrum, there is bijection
 \\[
@@ -57,7 +57,7 @@ Therefore, not only $MU$ is complex oriented, it is universal among all the comp
 
 A classic theorem of Quillen says.
 
-[Theorem 1.5](bibliography.md)\[Qui69\]
+[Theorem 1.5](bibliography.md/)\[Qui69\]
 
 The ring $MU^\*\cong \Z\[a\_1, a\_2,...\]$ is the Lazard ring, classifying formal group laws and the formal group law $F\_{MU}$ over $MU^*$ is the universal formal group law, such that the ring map determining the complex orientation over $E$ determines the formal group law over $E$.
 
@@ -67,14 +67,14 @@ R\_\*(X):=MU\_\*(X)\otimes \_{MU\_\*} R\_\*
 \\]
 This is not necessarily a homology. However, under certain circumstances, this determines a homology.
 
-[Theorem 1.6](bibliography.md)\[Lan76\]
+[Theorem 1.6](bibliography.md/)\[Lan76\]
 
 $R\_\*(-)$ is a homology if there is a prime $p$, and associated $v\_n$ in $MU\_\*$ such that $(p, v\_1,v\_2,...)$ is a regular sequence in $R\_{\*}$, i.e. $v\_n$ is not a zero divisor of $R\_\*/(p,v\_1,...,v\_{n-1})R\_\*$.
 
 We refer to this condition as **Landweber flat**
 
 Let $\Mfg$ be the (fpqc) moduli stack of formal groups over $\spec\Z$. As it turns out
-[Theorem 1.7](bibliography.md)\[Nau07\]
+[Theorem 1.7](bibliography.md/)\[Nau07\]
 
 A graded ring map $MU\_\*\to R\_\*$ determining a formal group law is Landweber flat iff the classifying map $\spec(R\_\*)\to \Mfg$ is flat.
 
@@ -94,14 +94,14 @@ The $E(n)$-localization, denotes $L_n$ determines a tower
 id\to ...\to L\_n\to L\_{n-1}\to ...L\_1\to L\_0 \simeq L\_{H\mathbb{Q}}
 \\]
 
-[Theorem 1.8](bibliography.md)\[Lur10\]
+[Theorem 1.8](bibliography.md/)\[Lur10\]
 For finite spectrum $X$, $X\simeq \holim\_n L\_n X$.
 
 The closed substack $\Mfg^n$ of formal groups of height exactly $n$, i.e. height $\geq n$ such that $v\_n$ is invertible. There is an affine cover $\spec(\Fp\[v\_n^{\pm}])
 
 This is not flat over $Mfg$, but there is still a spectrum $K(n)$, the **Morava K-theory**, such that \\[K(n)\_*\cong \Fp\[v\_n^{\pm}\][u^\pm]\\]. 
 
-[Theorem 1.9](bibliography.md)\[Lur10\]
+[Theorem 1.9](bibliography.md/)\[Lur10\]
 
 For any spectrum $X$, there is a homotopy pullback diagram 
 
@@ -122,7 +122,7 @@ Let $\LT\_n$ be the Lubin-Tate space of deformation of a height $n$ formal group
 (E\_n)\_{\*}=W(\Fpn)\[\[v\_1,...,v\_{n-1}\]\]\[u^\pm]
 \\]. Moreover, let $\Gn$ denote the automorphism group of $\LT\_n$ over $\Mfg^{n}$, then we have $\LT\_n//\Gn\simeq \Mfg^{n}$. The group $\Gn$ is profinite, determined by a chain of closed subgroup $U\_k\subset U\_{k-1}\subset \Gn$, and acts continuously on $(E\_n)\_*$.
 
-[Theorem 1.10](bibliography.md)\[DH04\]
+[Theorem 1.10](bibliography.md/)\[DH04\]
 
 We have $\LKn X\simeq (E\_n\wedge X)^{h\Gn}:=\holim\_n (E\_n\wedge X)^{h U\_k}$ and there is a spectral sequence
 \\[
