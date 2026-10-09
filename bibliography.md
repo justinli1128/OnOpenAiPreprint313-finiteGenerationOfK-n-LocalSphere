@@ -14,4 +14,6 @@ title: Bibliography
 - **[Lan76]** Peter Landweber, Homological properties of comodules over $MU\_\*MU$ and $BP\_\*BP$, American Journal of Mathematics (1976): 591-610 [jstor:2373808](https://www.jstor.org/stable/2373808)
 
 - **[Nau07]** N. Naumann, The stack of formal groups in stable homotopy theory, Advances in Mathematics 215 (2007), no. 2, 569–600. https://doi.org/10.1016/j.aim.2007.04.007
+
+- **[DH04]** E. S. Devinatz and M. J. Hopkins, Homotopy fixed point spectra for closed subgroups of the Morava stabilizer groups, Topology 43 (2004), no. 1, 1–47.
   
