@@ -1,8 +1,9 @@
 ---
-layout: default1
+layout: default
 title: On OpenAI's Proof of $\mathbb{Z}_p$-Finite Generation of $K(n)$-local Sphere
 ---
-(v.1)
+(v.2)
+# On OpenAI's Proof of $\mathbb{Z}_p$-Finite Generation of $K(n)$-local Sphere
 Author:[Jiahao Li](https://justinli1128.github.io/jiahaoliAcademicWebsite/) (University of British Columbia, Okanagan)
 
 This website is aimed to understand the proof of OpenAI of the $\mathbb{Z}_p$-finite generation of $K(n)$-local sphere. This is a problem of Hovey-Strickland, here by refer to as problem 313.
@@ -14,6 +15,6 @@ This website is aimed to understand the proof of OpenAI of the $\mathbb{Z}_p$-fi
 
 ## Contents
 
-[Motivation and Related Works](motivation.md/)
+[Motivation and Related Works](motivation.html)
 
 [Proof Sketch](proofsketch.md/)
