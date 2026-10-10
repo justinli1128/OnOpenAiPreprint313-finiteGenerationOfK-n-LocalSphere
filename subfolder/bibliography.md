@@ -5,6 +5,8 @@ title: Bibliography
 
 # Bibliography
 
+- **[OAI26]** OpenAI, Finite generation for the $K(n)$-local sphere, OpenAI Math Release preprint (2026).
+
 - **[Lur10]** J. Lurie, *Chromatic Homotopy Theory*,
   Harvard University, lecture notes (2010).
   [Course notes](https://www.math.ias.edu/~lurie/252x.html).
