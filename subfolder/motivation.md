@@ -117,15 +117,16 @@ L\_{n-1} X & \longrightarrow & L_{n-1}\LKn X
 
 Therefore, it is important to understand $LKn \S$, as it is the first step to recover $\pi\_* \S$.
 
-Let $\LT\_n$ be the Lubin-Tate space of deformation of a height $n$ formal group law over $\Fpn$. This space lives over $\Mfg^{n}$. The space $\LT\_n$ is discrete, and it is represented by a profinite ring $W(\Fpn)\[\[v\_1,...,v\_{n-1}\]\]$, and there is a spectrum $E\_n$ such that 
+Let $\LT\_n$ be the Lubin-Tate space of deformation of a height $n$ formal group law over $\Fpn$. This space lives over $\widehat{\Mfg^{n}}$, the infinitesimal formal neighbourhood of $\Mfg^{n}$. The space $\LT\_n$ is discrete, and it is represented by a profinite ring $W(\Fpn)\[\[v\_1,...,v\_{n-1}\]\]$, and there is a spectrum $E\_n$ such that 
 \\[
 (E\_n)\_{\*}=W(\Fpn)\[\[v\_1,...,v\_{n-1}\]\]\[u^\pm]
-\\]. Moreover, let $\Gn$ denote the automorphism group of $\LT\_n$ over $\Mfg^{n}$, then we have $\LT\_n//\Gn\simeq \Mfg^{n}$. The group $\Gn$ is profinite, determined by a chain of closed subgroup $U\_k\subset U\_{k-1}\subset \Gn$, and acts continuously on $(E\_n)\_*$.
+\\] Moreover, let $\Gn$ denote the automorphism group of $\LT\_n$ over $\widehat{\Mfg^{n}}$, then we have $\LT\_n//\Gn\simeq \widehat{\Mfg^{n}}$. The group $\Gn$ is profinite, determined by a chain of closed subgroup $U\_k\subset U\_{k-1}\subset \Gn$, and acts continuously on $(E\_n)\_*$.
 
 [Theorem 1.10](bibliography.md/)\[DH04\]
 
 For a spectrum $X$, there is a spectral sequence
 \\[
 E^{s,t}\_2=\Hcts^{s}(\Gn, (E\_n)\_t X)\implies \pi\_{t-s}\LKn X
-\\]
+\\]which strongly converges for CW spectra.
 
+We will refer to this spectral sequence DHSS.
