@@ -18,4 +18,9 @@ title: Bibliography
 - **[Nau07]** N. Naumann, The stack of formal groups in stable homotopy theory, Advances in Mathematics 215 (2007), no. 2, 569–600. https://doi.org/10.1016/j.aim.2007.04.007
 
 - **[DH04]** E. S. Devinatz and M. J. Hopkins, Homotopy fixed point spectra for closed subgroups of the Morava stabilizer groups, Topology 43 (2004), no. 1, 1–47.
+
+- **[Hea23]** D. Heard, The $Sp\_{k,n}$-local stable homotopy category, Algebraic & Geometric Topology 23 (2023), no. 8, 3655–3706. https://doi.org/10.2140/agt.2023.23.3655
+
+- **[Laz65]** Lazard, Michel. “Groupes analytiques $p$-adiques.” Publications Mathématiques de l'IHÉS 26 (1965): 5–219.
+  
   
