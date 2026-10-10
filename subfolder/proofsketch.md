@@ -43,7 +43,7 @@ We have
 
 By DHSS, we have 
 \\[
-E\_2^{s,t}=\Hcts^s(\Gn, (E\_n)\_\t/p)\implies \pi\_{t-s}\LKn \S/p
+E\_2^{s,t}=\Hcts^s(\Gn, (E\_n)\_t/p)\implies \pi\_{t-s}\LKn \S/p
 \\]
 
 Since $\Gn=Gal(\Fpn/\Fp)\ltimes S\_n$, for every $\Gn$-module $M$. There is the continuous Lyndon-Hochschild-Serre spectral sequence
@@ -58,8 +58,8 @@ We have $Gal(\Fpn/\Fp)\cong C\_{n-1}$. If a $C\_{n-1}$-module $N$ is finite, the
 
 For spectrum $X$ such that DHSS is strongly convergent, there is a horizontal vanishing line on a finite page of DHSS.
 
-Therefore, if $\Hcts^{s}(\Gn, (E\_n)\_\t/p)$ are all finite, the horizontal vanishing line implies the ending filtration has only finitely many elements, so $\pi\_{t-s}\LKn(\S/p)$ is finite for all $m=t-s$.
+Therefore, if $\Hcts^{s}(\Gn, (E\_n)\_t/p)$ are all finite, the horizontal vanishing line implies the ending filtration has only finitely many elements, so $\pi\_{t-s}\LKn(\S/p)$ is finite for all $m=t-s$.
 
 #### Conclusion
 
-We have deduced the argument into showing the continuous cohomology $\Hcts^q(S\_n, (E\_n)\_\t/p)$ is finite.
+We have deduced the argument into showing the continuous cohomology $\Hcts^q(S\_n, (E\_n)\_t/p)$ is finite.
