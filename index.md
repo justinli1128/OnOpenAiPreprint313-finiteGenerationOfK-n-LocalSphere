@@ -4,7 +4,7 @@ title: On OpenAI's Proof of $\mathbb{Z}_p$-Finite Generation of $K(n)$-local Sph
 ---
 (v.2)
 # On OpenAI's Proof of $\mathbb{Z}_p$-Finite Generation of $K(n)$-local Sphere
-Author:[Jiahao Li](https://justinli1128.github.io/jiahaoliAcademicWebsite/) (University of British Columbia, Okanagan)
+Author: [Jiahao Li](https://justinli1128.github.io/jiahaoliAcademicWebsite/) (University of British Columbia, Okanagan)
 
 This website is aimed to understand the proof of OpenAI of the $\mathbb{Z}_p$-finite generation of $K(n)$-local sphere. This is a problem of Hovey-Strickland, here by refer to as problem 313.
 
@@ -12,6 +12,9 @@ This website is aimed to understand the proof of OpenAI of the $\mathbb{Z}_p$-fi
 
 [M. Hovey's List of Problem in Morava E and K-Theory, 313 is no. 1](https://www-users.cse.umn.edu/~tlawson/hovey/morava.html)
 
+A discussion of usage of AI in mathematics and mathematical sciences
+
+[Terence Tao: A severe misalignment of AI in mathematics](https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/)
 
 ## Contents
 
