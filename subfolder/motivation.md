@@ -1,6 +1,6 @@
 ---
 layout: default1
-title: Motivations and Related Works
+title: Motivations
 ---
 v(2.1)
 (Some of these definitions are in [my note](https://justinli1128.github.io/jiahaoliAcademicWebsite/Algebraic_Geometry_in_Chromatic_Homotopy_Theory.pdf), or many other texts availables elsewhere)
