@@ -3,10 +3,10 @@ layout: default1
 title: Proof Sketch
 ---
 
-The proof of [OAI26](bibliography.md/) regarding Conjecture A follows from the following observation.
+The proof of [\[OAI26\]](bibliography.md/) regarding Conjecture A follows from the following observation.
 
 #### Lemma 2.1
-[OAI26, Lemma ](bibliography.md/)
+[\[OAI26, Lemma 12.2.2\]](bibliography.md/)
 
 Let $X$ be a derived $p$-complete spectrum, that is $X\simeq \holim\_n (X/p^n)$, where $X/p^n:=\mathrm{hocofib}(p^n:X\to X)$. Then $\pi\_m X$ is $\Z\_p$-finitely generated for every $m\in \Z$ if and only if $\pi\_m (X/p)$ is finite.
 
@@ -28,9 +28,9 @@ We have Milnor's $\lim^1$ sequence and derived $p$-completeness of $X$ determine
 \\]
 Since $\pi\_{m-1}(X/p^n)$ are finite, and since inverse system of finite abelian groups satisfies Mittag-Leffler condition, $\lim^1$ term vanishes, and $\pi\_m(X)\cong \lim \pi\_m(X/p^n)$.
 
-Looking at the exact sequence deduced from $X\to X\to X/p$, the left term is a $p$-torsion finite group, the right term is a $p$-torsion finite group. Hence the middle term must be a finite $p$-group (not necessarily a $p$-torsion, as it might not split, but it is ok). Therefore, $\pi\_m(X)$ is a $\Z\_p$-module. 
+Looking at the exact sequence deduced from $X\to X\to X/p$, the left term is a $p$-torsion finite group, the right term is a $p$-torsion finite group. Hence the middle term must be a finite $p$-group (not necessarily a $p$-torsion, as it might not split, but it is ok). Therefore, $\pi\_m(X)$ has the $\Z\_p$-module structure induced from the inverse limit.
 
-Since $\pi\_m(X)/p\pi\_m(X)$ is finite and $\Z\_p$ is a local ring with maximal ideal $p\Z\_p$, then by Nakayama's lemma, $\pi\_m(X)$ is finitely generated.
+Since $\pi\_m(X/p^n)$ are finite, $\pi\_m(X)$ is compact with the profinite topology. Moreover, since $\pi\_m(X)/p\pi\_m(X)$ and $\Z\_p$ is a local ring with maximal ideal $p\Z\_p$, then by topological Nakayama's lemma, $\pi\_m(X)$ is finitely generated [\[NSW08, Lemma 5.2.18\]](bibliography.md/).
 
 QED.
 
@@ -54,7 +54,7 @@ E\_2^{p,q}=\Hcts^p(Gal(\Fpn/\Fp), \Hcts^q(S\_n, M))\implies \Hcts^{p+q}(\Gn, M)
 We have $Gal(\Fpn/\Fp)\cong C\_{n}$. If a $C\_{n}$-module $N$ is finite, then $H^p(C\_{n}, N)$ are all finite. Then the god-given vertical and horizontal vanishing line implies that if $\Hcts^q(S\_n, M)$ are finite, $\Hcts^{p+q}(\Gn, M)$ are finite.
 
 #### Lemma 2.2 
-[Hea23, Proposition 4.13]
+[\[Hea23, Proposition 4.13\]](bibliography.md/)
 
 For spectrum $X$ such that DHSS is strongly convergent, there is a horizontal vanishing line on a finite page of DHSS.
 
