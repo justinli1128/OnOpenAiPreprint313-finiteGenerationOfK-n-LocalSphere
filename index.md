@@ -18,6 +18,6 @@ A discussion of usage of AI in mathematics and mathematical sciences
 
 ## Contents
 
-[Motivation and Related Works](subfolder/motivation)
+[Motivation](subfolder/motivation)
 
 [Proof Sketch](subfolder/proofsketch/)
