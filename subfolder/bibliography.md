@@ -5,8 +5,10 @@ title: Bibliography
 
 # Bibliography
 
+## OpenAI
 - **[OAI26]** OpenAI, Finite generation for the $K(n)$-local sphere, OpenAI Math Release preprint (2026).
 
+## Algebraic Topology/ Homotopy Theory
 - **[Lur10]** J. Lurie, *Chromatic Homotopy Theory*,
   Harvard University, lecture notes (2010).
   [Course notes](https://www.math.ias.edu/~lurie/252x.html).
@@ -21,6 +23,8 @@ title: Bibliography
 
 - **[Hea23]** D. Heard, The $Sp\_{k,n}$-local stable homotopy category, Algebraic & Geometric Topology 23 (2023), no. 8, 3655–3706. https://doi.org/10.2140/agt.2023.23.3655
 
+## Arithmetic Geometry/ Number Theory
+
 - **[Laz65]** Lazard, Michel. “Groupes analytiques $p$-adiques.” Publications Mathématiques de l'IHÉS 26 (1965): 5–219.
   
-  
+- **[NSW08]** Neukirch, J., Schmidt, A., and Wingberg, K. (2008). Cohomology of Number Fields. 2nd ed., Grundlehren der mathematischen Wissenschaften, Vol. 323. Springer, Berlin, Heidelberg.
