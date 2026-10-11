@@ -28,3 +28,5 @@ title: Bibliography
 - **[Laz65]** Lazard, Michel. “Groupes analytiques $p$-adiques.” Publications Mathématiques de l'IHÉS 26 (1965): 5–219.
   
 - **[NSW08]** Neukirch, J., Schmidt, A., and Wingberg, K. (2008). Cohomology of Number Fields. 2nd ed., Grundlehren der mathematischen Wissenschaften, Vol. 323. Springer, Berlin, Heidelberg.
+
+- **[Sch11]** Schneider, P. (2011). $p$-Adic Lie Groups. Grundlehren der mathematischen Wissenschaften, Vol. 344. Springer, Berlin, Heidelberg.
