@@ -10,7 +10,7 @@ This website is aimed to understand the proof of OpenAI of the $\mathbb{Z}_p$-fi
 
 [OpenAI's Proof](https://github.com/openai/math/tree/fd4aeeb2ee4fc729c18d98444fed42fd0529eeeb/preprints/Finite-generation-for-the-Kn-local-sphere-September-24-2026)
 
-[M. Hovey's List of Problem in Morava E and K-Theory, 313 is no. 1](https://www-users.cse.umn.edu/~tlawson/hovey/morava.html)
+[M. Hovey's List of Problems in Morava E and K-Theory, 313 is no. 1](https://www-users.cse.umn.edu/~tlawson/hovey/morava.html)
 
 A discussion of usage of AI in mathematics and mathematical sciences
 
@@ -21,3 +21,5 @@ A discussion of usage of AI in mathematics and mathematical sciences
 [Motivation](subfolder/motivation)
 
 [Proof Sketch](subfolder/proofsketch/)
+
+[p-adic Geometry and p Analytic Groups](subfolder/padicgeometry/)
