@@ -51,7 +51,7 @@ Since $\Gn=Gal(\Fpn/\Fp)\ltimes S\_n$, for every $\Gn$-module $M$. There is the 
 E\_2^{p,q}=\Hcts^p(Gal(\Fpn/\Fp), \Hcts^q(S\_n, M))\implies \Hcts^{p+q}(\Gn, M)
 \\]
 
-We have $Gal(\Fpn/\Fp)\cong C\_{n-1}$. If a $C\_{n-1}$-module $N$ is finite, then $H^p(C\_{n-1}, N)$ are all finite. Then the god-given vertical and horizontal vanishing line implies that if $\Hcts^q(S\_n, M)$ are finite, $\Hcts^{p+q}(\Gn, M)$ are finite.
+We have $Gal(\Fpn/\Fp)\cong C\_{n}$. If a $C\_{n}$-module $N$ is finite, then $H^p(C\_{n}, N)$ are all finite. Then the god-given vertical and horizontal vanishing line implies that if $\Hcts^q(S\_n, M)$ are finite, $\Hcts^{p+q}(\Gn, M)$ are finite.
 
 #### Lemma 2.2 
 [Hea23, Proposition 4.13]
