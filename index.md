@@ -22,4 +22,4 @@ A discussion of usage of AI in mathematics and mathematical sciences
 
 [Proof Sketch](subfolder/proofsketch/)
 
-
+[Allowed Coefficients](subfolder/allowedcoef/)
