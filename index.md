@@ -22,4 +22,4 @@ A discussion of usage of AI in mathematics and mathematical sciences
 
 [Proof Sketch](subfolder/proofsketch/)
 
-[p-adic Geometry and p Analytic Groups](subfolder/padicgeometry/)
+
