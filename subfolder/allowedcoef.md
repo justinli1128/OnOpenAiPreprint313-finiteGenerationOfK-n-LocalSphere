@@ -24,7 +24,7 @@ _The algebra $D\_m(\ell, b)$ are free of rank $p^{n\ell-b}$ over $A\_m$. Moreove
 
 _proof:_
 
-Since $\[p^\ell\]\_F T=K(T^{p^{m\ell})$ for some power series $K$, there is power series $f$ such that $f(T^{p^b})=\[p^\ell\]\_F T$, and $f(t)=x^\ell t^{p^{m\ell-b}}+...$.
+Since $\[p^\ell\]\_F T=K(T^{p^{m\ell}})$ for some power series $K$, there is power series $f$ such that $f(T^{p^b})=\[p^\ell\]\_F T$, and $f(t)=x^\ell t^{p^{m\ell-b}}+...$.
 
 Note that $F$ is a deformation of $\Gamma\_n$, hence modulo the maximal ideal recovers the $n$-series. In other word, $\[p^\ell\]\_F T\equiv T^{n\ell}\mod \mathfrak{m}$. Therefore, $f(t)\equiv t^{p^{n\ell-b}}\mod \mathfrak{m}$. 
 
