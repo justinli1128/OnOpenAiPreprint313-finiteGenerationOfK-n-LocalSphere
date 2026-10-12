@@ -70,7 +70,7 @@ We have deduced the argument into showing the continuous cohomology $\Hcts^q(P\_
 
 The Honda formal group law $\Gamma\_n$ has the property $\[p\]\_{\Gamma\_n} T=T^{p^n}$.
 
-Let $k$ be a perfect field of characteristice $p$ ($\Fpn$ is good enough for our argument), $n \leq m\geq 1$ $A\_m:=k\[\[u\_m, ..., u\_{n-1}\]$, $x=u\_m$, and $r=n-m$. Let $F$ denote the restriction of the universal deformation $\wide \Gamma\_n$ of $\Gamma\_n$ on $A\_m$, that is the pushforward of $\wide \Gamma\_n$ along $W(k)\[u\_1,...,u\_{n-1}\]\to A\_m$. So $F$ is the universal deformation of $\Gamma\_n$ on height $\geq m$.
+Let $k$ be a perfect field of characteristice $p$ ($\Fpn$ is good enough for our argument), $n \leq m\geq 1$ $A\_m:=k\[\[u\_m, ..., u\_{n-1}\]$, $x=u\_m$, and $r=n-m$. Let $F$ denote the restriction of the universal deformation $\widehat{ \Gamma\_n}$ of $\Gamma\_n$ on $A\_m$, that is the pushforward of $\widehat{ \Gamma\_n}$ along $W(k)\[u\_1,...,u\_{n-1}\]\to A\_m$. So $F$ is the universal deformation of $\Gamma\_n$ on height $\geq m$.
 
 Therefore, we have the following property regarding $F$
 \\[
