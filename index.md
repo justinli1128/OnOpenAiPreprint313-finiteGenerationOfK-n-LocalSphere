@@ -16,6 +16,12 @@ A discussion of usage of AI in mathematics and mathematical sciences
 
 [Terence Tao: A severe misalignment of AI in mathematics](https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/)
 
+## Disclaimer of AI Usage
+
+Generative AI are only used for gathering references that contributes to the results. All writings and reinterpretation of results are done by the authors without help of AI.
+
+Digital Signature: Jiahao Li
+
 ## Contents
 
 [Motivation](subfolder/motivation)
