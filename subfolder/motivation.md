@@ -126,9 +126,9 @@ L\_{n-1} X & \longrightarrow & L_{n-1}\LKn X
 
 Therefore, it is important to understand $LKn \S$, as it is the first step to recover $\pi\_* \S$.
 
-Let $\LT\_n$ be the Lubin-Tate space of deformation of a height $n$ formal group law $\Gamma\_n$ over $\Fpn$. This space lives over $\widehat{\Mfg^{n}}$, the infinitesimal formal neighbourhood of $\Mfg^{n}$. 
+Let $\LT\_n$ be the Lubin-Tate space of deformation of the Honda formal group law, a height $n$ formal group law $\Gamma\_n$ over $\Fpn$. This space lives over $\widehat{\Mfg^{n}}$, the infinitesimal formal neighbourhood of $\Mfg^{n}$. 
 
-The space $\LT\_n$ is discrete, and it is represented by a profinite ring $W(\Fpn)\[\[v\_1,...,v\_{n-1}\]\]$, where $W(\Fpn)$ is the Witt vectors ring of $\Fpn$, which is local with residue field $\Fpn$, and there is a spectrum $E\_n$ such that 
+The space $\LT\_n$ is discrete, and it is represented by a profinite ring $W(\Fpn)\[\[v\_1,...,v\_{n-1}\]\]$ and an universal deformation of $\Gamma\_n$, where $W(\Fpn)$ is the Witt vectors ring of $\Fpn$, which is local with residue field $\Fpn$, and there is a spectrum $E\_n$ such that 
 \\[
 (E\_n)\_{\*}=W(\Fpn)\[\[v\_1,...,v\_{n-1}\]\]\[u^\pm]
 \\] 
