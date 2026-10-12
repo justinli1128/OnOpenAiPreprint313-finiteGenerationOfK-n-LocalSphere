@@ -46,12 +46,12 @@ By DHSS, we have
 E\_2^{s,t}=\Hcts^s(\Gn, (E\_n)\_t/p)\implies \pi\_{t-s}\LKn \S/p
 \\]
 
-Since $\Gn=Gal(\Fpn/\Fp)\ltimes S\_n$, for every $\Gn$-module $M$. There is the continuous Lyndon-Hochschild-Serre spectral sequence
+Since $\Gn=Gal(\Fpn/\Fp)\ltimes P\_n$, for every $\Gn$-module $M$. There is the continuous Lyndon-Hochschild-Serre spectral sequence
 \\[
-E\_2^{p,q}=\Hcts^p(Gal(\Fpn/\Fp), \Hcts^q(S\_n, M))\implies \Hcts^{p+q}(\Gn, M)
+E\_2^{p,q}=\Hcts^p(Gal(\Fpn/\Fp), \Hcts^q(P\_n, M))\implies \Hcts^{p+q}(\Gn, M)
 \\]
 
-We have $Gal(\Fpn/\Fp)\cong C\_{n}$. If a $C\_{n}$-module $N$ is finite, then $H^p(C\_{n}, N)$ are all finite. Then the god-given vertical and horizontal vanishing line implies that if $\Hcts^q(S\_n, M)$ are finite, $\Hcts^{p+q}(\Gn, M)$ are finite.
+We have $Gal(\Fpn/\Fp)\cong C\_{n}$. If a $C\_{n}$-module $N$ is finite, then $H^p(C\_{n}, N)$ are all finite. Then the god-given vertical and horizontal vanishing line implies that if $\Hcts^q(P\_n, M)$ are finite, $\Hcts^{p+q}(\Gn, M)$ are finite.
 
 #### Lemma 2.2 
 [\[Hea23, Proposition 4.13\]](bibliography.md/)
@@ -62,4 +62,4 @@ Therefore, if $\Hcts^{s}(\Gn, (E\_n)\_t/p)$ are all finite, the horizontal vanis
 
 #### Conclusion
 
-We have deduced the argument into showing the continuous cohomology $\Hcts^q(S\_n, (E\_n)\_t/p)$ is finite.
+We have deduced the argument into showing the continuous cohomology $\Hcts^q(P\_n, (E\_n)\_t/p)$ is finite.
