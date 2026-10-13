@@ -135,7 +135,7 @@ The space $\LT\_n$ is discrete, and it is represented by a profinite ring $W(\Fp
 
 Moreover, let $\Gn$ denote the automorphism group of $\Gamma\_n$ over $\Fp$, which is $Gal(\Fpn/\Fp)\ltimes P\_n$ where $P\_n$ is the automorphism of $\Gamma\_n$ over $\Fpn$ (we follow the notation used in [\[OAI26\]](bibliography.md/)). Let $\O\_{D\_n}$ denote the endomorphism ring of $\Gamma\_n$ over $\Fpn$, with its fraction ring, a division algebra $D\_n$ and a valuation on $D\_n$, then $P\_n=\O\_{D\_n}^\times$.
 
-We have $\LT\_n//\Gn\simeq \widehat{\Mfg^{n}}$. The group $\Gn$ is profinite, determined by a chain of closed subgroup $U\_k\subset U\_{k-1}\subset \Gn$, and acts continuously on $(E\_n)\_*$.
+We have $\LT\_n//\Gn\simeq \widehat{\Mfg^{n}}$. The group $\Gn$ is profinite determined by $\lim\_a\O\_{D\_n}^\times/(1+p^a\O\_{D\_n})$, and acts continuously on $(E\_n)\_*$.
 
 #### Theorem 1.10 
 [DH04](bibliography.md/)
