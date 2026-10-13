@@ -28,4 +28,8 @@ Digital Signature: Jiahao Li
 
 [Proof Sketch](subfolder/proofsketch/)
 
+[p-divisible Group](subfolder/pdivisiblegroup/)
+
 [Allowed Coefficients](subfolder/allowedcoef/)
+
+[Bibliography](subfolder/bibliography/)
