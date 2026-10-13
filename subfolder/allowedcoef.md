@@ -45,5 +45,35 @@ Now its left with the filtration condition. Given a finite filtration $F^t M\sub
 
 Q.E.D.
 
-We denote $F\[p^\ell\]:=\mathrm{spf} A\_m\[\[T\]\]/(\[p^\ell\]\_F T)$ the formal scheme of $p^\ell$-torsions of $F$. There is inclusion $F\[p^\ell\]\to F\[p^{\ell+1}\]$, and we denote $F\[p^\infty\]:=\colim\_\ell F\[p^\ell\]$, the $p$-divisible group of $F$.
+We denote $F\[p^\ell\]:=\spec A\_m\[\[T\]\]/(\[p^\ell\]\_F T)$ the scheme of $p^\ell$-torsions of $F$. There is inclusion $F\[p^\ell\]\to F\[p^{\ell+1}\]$, and we denote $F\[p^\infty\]$ the $p$-divisible group of $F$.
+
+Now over, $B\_m=A\_m\[1/x\]$, $x$ is invertible, so $F$ has height exactly $m$. Hence the formal group of connected component of $F\[p^\infty\]$, $F\[p^\infty\]^0$ has height exactly $m$. 
+
+#### Theorem 3.2
+[\[Lur10\], Theorem 1, Lecture 14](bibliography.md/)
+_For $F$ and $F'$ two formal group law over a ring $R$ of height exactly $h>0$, let $Iso(F,F')$ denote the ring classifying isomorphisms from $F$ to $F'$, there is then a directed system of injective finite étale map 
+\\[
+R=R(1)\to R(2)\to ... 
+\\]such that $Iso(F,F')=\colim \_n R(n)$._
+
+#### Definition 3.3
+(I am not sure if this definition is found elsewhere, but the preprint did not give a definition, forcing me to guess what it means)
+
+_Given two formal groups of height $h$ over $R$, we know that $Iso(F,F')$ is pro-finite-étale, a **marking** is then a $T$-point of $Iso(F,F')$ for some cover $T$ over $R$, that is an isomorphism $f: F\_T\to F\_T'$._
+
+
+There is an action of $P\_m$ on $Q:=Iso(F\[p^\infty\]^0,\Gamma\_m \otimes\_k B\_m)$ determined by postcomposition, which is transitive, determining a pro-finite-étale $P\_m$-torsor over $B\_m$, as $Q=\lim\_h Q\_h$ is pro-finite-étale, for each $Q\_h:=Iso(F\[p^\infty\]^0,\Gamma\_m \otimes\_k B\_m)/ U\_h$ a $P\_m/ U\_h$-finite-étale torsor. Recall that $U\_h$ is the normal subgroup of $P\_m$ such that $U\_h$ are equivalent to the identity modulo $T^{p^{h+1}}$.
+
+#### Proposition 3.3
+
+_For every $h\geq 0$, the $P\_m/U\_h$-torsor $Q\_h$ is represented by a finite free algebra $H\_{m,h}$ over $A\_m$ spanned by variables $a\_0,...,a\_h$ such that
+\\[
+a\_0^{p^m-1}=x, a\_i^{p^m}-x^{p^i}a\_i=P\_i(a\_0,...,a\_{i−1})
+\\]for some polynomials $P\_i$. That is over $B\_m$, $Q\_h=\spec(H\_{m,h}\[1/x\])$._
+
+
+
+
+
+
 
