@@ -32,3 +32,5 @@ title: Bibliography
 - **[Sch11]** Schneider, P. (2011). $p$-Adic Lie Groups. Grundlehren der mathematischen Wissenschaften, Vol. 344. Springer, Berlin, Heidelberg.
 
 - **[Tat66]** J. Tate, p-Divisible Groups, in Proceedings of a Conference on Local Fields, Driebergen, 1966, Springer, 1967, pp. 158–183.
+
+- **[SW20]** Scholze, Peter, and Jared Weinstein. Berkeley Lectures on $p$-adic Geometry. Annals of Mathematics Studies, vol. 207. Princeton: Princeton University Press, 2020. https://doi.org/10.1515/9780691202150
