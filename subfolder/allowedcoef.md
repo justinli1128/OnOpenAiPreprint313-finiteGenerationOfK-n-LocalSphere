@@ -90,6 +90,17 @@ Therefore, there exists a morphism $Q\_h\to \spec(H\_{m,h}\[1/x\])$ sending an i
 
 Over separable closed fields, every height $m$ formal group law $F$ is isomorphic to $\Gamma\_m$, and we have $P\_m/U\_h$ has rank $(p^m-1)p^{mh}$. The map $Q\_h\to \spec(H\_{m,h}\[1/x\])$ is surjective on the separable closed field(?). Therefore, surjectivity and same rank over separable closed field implies isomorphism between finite étale algebra.
 
+The action of $G$ on $Q\_h$ is determined by precomposition, that is for $g\in G$ and $f\in Q\_h$, $g\cdot f\equiv f\circ \alpha\_g \mod T^{p^{h+1}}$. We have that $\alpha\_g(T)=\chi\_g T+\sum\_{l\geq 2}\beta\_l T^l$, and 
+\\[
+f(\alpha\_g(T))=a\_0\alpha\_g(T)+a\_1\alpha\_g(T)^p+a\_2\alpha\_g(T)^{p^2}+...+ \text{other terms}
+\\= g\cdot a\_0 T+g\cdot a\_1 T^{p}+...+ g\cdot \text{other terms}
+\\]
+The only degree $1$ term in this equation is $\chi\_g a\_0$ hence $g(a\_0)=\chi\_g a\_0$. Similarly, for the degree $p^i$ term, there is a coefficient of $\chi\_g^{p^i} a\_i$ with addition of some polynomial of coefficient $Q$, which depends on the term $a\_0,...,a\_{i-1}$ because all the term containing $a\_{j> i}$ contribute to the term of higher degree. The coefficient of $Q$ does not contain any inverses of $x$, and $H\_{m,h}$ is $x$-torsion-free, so the action of $G$ on $Q\_h=\spec H\_{m,h}\[1/x\]$ extend to an action on $H\_{m,h}$.
+
+Lastly, we impose the inverse lex ordering on $a\_0^{e\_0}...a\_h^{e\_h}$, that is comparing power $e\_h$ first then break tie with $e\_{h-1}$ and so on. 
+
+
+
 
 
 
